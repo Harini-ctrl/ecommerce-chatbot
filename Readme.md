@@ -42,7 +42,7 @@ ecommerce-chatbot/
 │   └── index.html
 │
 ├── README.md
-└── package.json (if present at root)
+
 
 ````
 
@@ -98,9 +98,7 @@ npm run dev
 
 ## 🧑‍💻 Author
 
-* \P Harini Srutakeerti
-* \https://github.com/Harini-ctrl/ecommerce-chatbot
+* P Harini Srutakeerti
+* https://github.com/Harini-ctrl/ecommerce-chatbot
 
-````
 
----
